@@ -18,7 +18,6 @@ def bubble_sort(array)
 
   array
 end
-
 #def array_sort(numbers)
 #  small = numbers[0]
 #  length = numbers.length-1

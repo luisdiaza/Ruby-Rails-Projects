@@ -1,0 +1,1 @@
+This is a Ruby program that asks the user to input a series of numbers.  The program will then sort the string without using Ruby's built in .sort! method and then output the second smallest number in the series of numbers provided by the user.  
