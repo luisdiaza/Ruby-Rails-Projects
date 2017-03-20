@@ -1,1 +1,1 @@
-This is a basic Ruby on Rails application used to get familiar with the MVC structure, CRUD, and scaffold generator
+This is a basic Ruby on Rails application used to get familiar with the MVC structure, CRUD, and scaffold generator, and one to many associations.  Any new features will be tested here before being rolled out to my "alpha-blog" app.  
