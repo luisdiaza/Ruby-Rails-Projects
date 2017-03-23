@@ -3,10 +3,16 @@ matz = { "First name" => "Yukihiro",
   "Age" => 47,
   "Nationality" => "Japanese",
   "Nickname" => "Matz"
+
+  #"First name" => "Kelly",
+  #"Last name" => "Toy",
+  #"Age" => "24",
+  #"Nationality" => "Chinese/European",
+  #"Nickname" => "Kelly"
 }
 
 matz.each do |key, value|
-     puts "#{key}: #{value}" 
+     puts "#{key}: #{value}"
 end
 
 #friends = ["Milhouse", "Ralph", "Nelson", "Otto"]
