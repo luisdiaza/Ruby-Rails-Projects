@@ -4,4 +4,7 @@ Rails.application.routes.draw do
   get "about", to:"pages#about"
 
   resources :articles #gave us new article paths in order to create, edit, show, or delete articles
+
+  get "signup", to: "users#new"
+  resources :users, except: [:new]
 end
